@@ -17,12 +17,7 @@ Here are some ideas to get you started:
 
 <div>
   <p>
-    - 🧠 I’m currently learning: Angular 
-    <img align="center" alt="Marcelo-Angular" height="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
-    , .Net Core 
-    <img align="center" alt="Marcelo-DotNet" height="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain.svg">
-    and SQL 
-    <img align="center" alt="Marcelo-DotNet" height="18" width="24" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+    - 🧠 I’m currently developing a personal project with: <b>Angular 14, ASP.NET Core 6 and MySQL 8</b>
   </p>
   <p>
     - 🔭 I’m looking for an oportunity as a Fullstack Web Dev
@@ -34,7 +29,7 @@ Here are some ideas to get you started:
  
 <div> 
   <a 
-     href="kedin.com/in/marcelocferrazpnz/" 
+     href="https://linkedin.com/in/marcelocferrazpnz/" 
      target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
