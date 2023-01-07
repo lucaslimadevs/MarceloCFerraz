@@ -47,7 +47,7 @@ Here are some ideas to get you started:
   
 <div align="center" style="display: inline_block">
   <h3> 
-    My favotire piece of tech:
+    My favorite piece of tech:
   </h3>
 <div align="center">
   <a href="https://github.com/MarceloCFerraz">
